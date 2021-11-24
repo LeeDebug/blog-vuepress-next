@@ -8,7 +8,7 @@ heroImageStyle: {
   margin: '0 auto 2rem',
   borderRadius: '1rem',
 }
-heroText: vuepress-theme-reco-next
+heroText: blog-vuepress-next
 tagline: 继承 reco 主题的小梦想，来做件大事情。
 isShowTitleInHome: true
 actionText: About
