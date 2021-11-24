@@ -1,0 +1,31 @@
+# 参考：https://vuepress-theme-reco.recoluan.com/views/other/github-actions.html
+name: Deploy GitHub Pages
+
+# 触发条件：在 push 到 release- 开头的分支后
+on:
+  push:
+    branches:
+      - 'release-**'
+      - '!releases-**-alpha'
+
+# 任务
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        # see: https://github.com/marketplace/actions/checkout
+        uses: actions/checkout@v2.4.0
+        with:
+          persist-credentials: false
+
+      - name: Install and Build 🔧
+        run: npm install && npm run build
+
+      - name: Deploy to GitHub Pages 🚀
+        # see: https://github.com/marketplace/actions/deploy-to-github-pages
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN_VUEPRESS_NEXT }}
+          BRANCH: gh-pages
+          FOLDER: docs/.vuepress/dist
