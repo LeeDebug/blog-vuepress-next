@@ -1,7 +1,7 @@
 ---
 title: vue-router
 categories:
-  - vue
+  - Vue
 tags:
   - vue-router
 keywords: 'vue,vue-router'

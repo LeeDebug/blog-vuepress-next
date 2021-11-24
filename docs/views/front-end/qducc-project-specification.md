@@ -1,10 +1,10 @@
 ---
 title: 前端个人学习笔记与项目规范
 categories:
-  - 个人文档
+  - document
 tags:
-  - 个人文档
-keywords: 个人文档
+  - document
+keywords: document
 description: 个人文档
 cover: https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20201111170242.png
 date: 2020-06-20 10:35:22

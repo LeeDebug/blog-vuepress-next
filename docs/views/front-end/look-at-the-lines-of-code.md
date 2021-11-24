@@ -1,10 +1,10 @@
 ---
 title: 查看代码行数
 categories:
-  - 个人文档
+  - Code
 tags:
-  - 个人文档
-keywords: 个人文档
+  - Code
+keywords: Code
 description: 查看代码行数
 cover: 'https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20210305125935.png'
 date: 2021-03-01 12:51:35

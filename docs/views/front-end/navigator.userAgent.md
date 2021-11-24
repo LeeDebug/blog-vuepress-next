@@ -1,10 +1,10 @@
 ---
 title: navigator.userAgent获取当前设备信息
 categories:
-  - 移动端
+  - browser
 tags:
-  - 移动端
-keywords: 移动端
+  - browser
+keywords: browser
 description: navigator.userAgent获取当前设备信息
 cover: 'https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20210226130414.png'
 date: 2021-02-17 23:14:02

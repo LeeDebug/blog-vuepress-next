@@ -1,10 +1,10 @@
 ---
 title: Ubuntu 16.04 部署命令
 categories:
-  - 服务器
+  - server
 tags:
-  - 服务器
-keywords: '服务器'
+  - server
+keywords: 'server'
 description: 服务器
 cover: https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20201111170149.png
 date: 2020-07-06 15:17:53

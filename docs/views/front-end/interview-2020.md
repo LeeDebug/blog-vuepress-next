@@ -179,7 +179,7 @@ date: 2020-08-12 23:54:32
     - `css3的媒体查询`
         - @media (orientation:portrait) and (max-width:460px) {}
         - orientation：portrait(指定输出设备中的页面可见区域高度大于或等于宽度) | landscape
-        - <link rel="stylesheet" type="text/css"media="screen and (min-width: 400px) and (max-device-width: 600px)" href="smallScreen.css" />
+        - `<link rel="stylesheet" type="text/css" media="screen and (min-width: 400px) and (max-device-width: 600px)" href="smallScreen.css" />`
     - `百分比布局`
 {% endhideToggle %}
 - [对BFC的规范的理解](https://www.axihe.com/focus/css/86.html)

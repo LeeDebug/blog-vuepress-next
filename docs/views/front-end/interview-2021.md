@@ -1,10 +1,10 @@
 ---
 title: 2021前端知识点总结
 categories:
-  - 面试
+  - interview
 tags:
-  - 面试,Vue,JavaScript
-keywords: 面试,Vue,Vue3,JavaScript
+  - interview
+keywords: 'interview'
 description: 2021前端面试总结
 cover: 'https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png'
 date: 2021-05-24 18:17:08

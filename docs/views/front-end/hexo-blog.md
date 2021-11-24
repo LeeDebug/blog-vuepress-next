@@ -1,11 +1,11 @@
 ---
 title: 从0开始搭建Hexo个人博客
 categories:
-  - 个人文档
+  - document
 tags:
-  - 个人文档
-keywords: '前端,Hexo,个人文档'
-description: 个人文档
+  - document
+keywords: 'document'
+description: document
 cover: https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20201111170432.png
 date: 2020-06-07 23:23:55
 ---

@@ -1,11 +1,11 @@
 ---
 title: 《前端内参》读书笔记
 categories: 
-  - 读书笔记
+  - reading-notes
 tags:
-  - 读书笔记
-keywords: 读书笔记
-description: 读书笔记
+  - reading-notes
+keywords: 'reading-notes'
+description: reading-notes
 cover: https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20201111170225.png
 date: 2020-06-23 21:08:31
 ---

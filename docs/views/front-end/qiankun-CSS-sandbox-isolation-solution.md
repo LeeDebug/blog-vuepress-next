@@ -1,10 +1,10 @@
 ---
 title: qiankun的css样式污染解决方案
 categories:
-  - 微前端
+  - Micro-front-end
 tags:
-  - 微前端
-keywords: 微前端
+  - Micro-front-end
+keywords: Micro-front-end
 description: qiankun的css样式污染解决方案
 cover: 'https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20201220000516.png'
 date: 2020-12-19 23:57:26

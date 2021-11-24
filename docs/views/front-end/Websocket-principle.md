@@ -4,7 +4,7 @@ categories:
   - Socket
 tags:
   - Socket
-keywords: Socket,WebSocket
+keywords: Socket
 description: 看完让你彻底搞懂Websocket原理
 cover: 'https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20210421181317.png'
 date: 2021-03-17 17:27:47
