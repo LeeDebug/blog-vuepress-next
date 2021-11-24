@@ -16,7 +16,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   port: personalDev.port,
   // 部署站点的基础路径，需要是 /<REPO>/ 的仓库名才行
   // 详见：https://vuepress.vuejs.org/zh/guide/deploy.html#github-pages
-  // base: isDev ? '/' : '/blog-vuepress/',
+  base: isDev ? '/' : '/blog-vuepress-next/',
   // 编译产物的路径
   // dest: 'docs/.vuepress/dist',
   // 热更新相关路径？临时文件
