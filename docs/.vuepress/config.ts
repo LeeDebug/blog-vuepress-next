@@ -81,19 +81,23 @@ export default defineUserConfig<DefaultThemeOptions>({
       { text: 'Home', link: '/' },
       { text: 'Categories', link: '/categories/reco/1/' },
       { text: 'Tags', link: '/tags/tag1/1/' },
-      // { text: '时间线', link: '/timeline/', icon: 'reco-date' },
-      // { text: '文章列表', link: '/views/', icon: 'reco-document' },
+      { text: 'TimeLines', link: '/timeline/' },
+      // { text: '文章列表', link: '/views/' },
       { text: 'Docs',
         children: [
           { text: 'vuepress-reco', link: '/docs/theme-reco/theme' },
-          { text: 'aaa', link: '/blogs/other/guide' }
+          { text: 'Docs丨Vuepress 2.x', link: 'https://v2.vuepress.vuejs.org/zh/' },
+          { text: 'Github丨theme-reco-next', link: 'https://github.com/vuepress-reco/vuepress-theme-reco-next' },
         ]
       },
       {
-        text: 'Own Links',
+        text: 'About Me',
         children: [
-          { text: 'GitHub', link: 'https://github.com/LeeDebug' },
-          { text: 'Hexo Blog', link: 'https://blog.leedebug.cn' },
+          { text: 'GitHub丨LeeDebug', link: 'https://github.com/LeeDebug' },
+          { text: 'JueJin丨LeeDebug', link: 'https://juejin.cn/user/2189882894323975/posts' },
+          { text: 'Blog丨Vuepress 1.x', link: 'https://blog.leedebug.cn/blog-vuepress/' },
+          { text: 'Blog丨Vuepress 2.x', link: 'https://blog.leedebug.cn/blog-vuepress-next/' },
+          { text: 'Blog丨Hexo & Butterfly', link: 'https://blog.leedebug.cn' },
         ]
       }
     ],
