@@ -20,7 +20,8 @@ jobs:
           persist-credentials: false
 
       - name: Install and Build 🔧
-        run: npm install && npm run build
+        run: yarn && yarn build
+        # run: npm install && npm run build
 
       - name: Deploy to GitHub Pages 🚀
         # see: https://github.com/marketplace/actions/deploy-to-github-pages
