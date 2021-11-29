@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_vuepress_next=self.webpackChunkblog_vuepress_next||[]).push([[7422],{4268:(e,t,r)=>{r.r(t),r.d(t,{data:()=>n});const n={key:"v-85742f6e",path:"/categories/VSCode/1/",title:"",lang:"en-US",frontmatter:{layout:"Categories"},excerpt:"",headers:[],git:{}}},7635:(e,t,r)=>{r.r(t),r.d(t,{default:()=>n});const n={render:function(e,t){return null}}}}]);

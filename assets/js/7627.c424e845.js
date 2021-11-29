@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_vuepress_next=self.webpackChunkblog_vuepress_next||[]).push([[7627],{7627:(e,n,s)=>{s.r(n),s.d(n,{default:()=>r});var u=s(6252);const r={render:function(e,n){return(0,u.wg)(),(0,u.iD)("div",null,"404")}}}}]);
